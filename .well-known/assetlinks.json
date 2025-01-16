@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.zbdd.twa",
+      "sha256_cert_fingerprints": [
+        "31:28:91:6A:E0:53:AE:E3:74:4B:0E:55:8B:16:27:37:01:BC:52:D9:59:B2:8A:16:F9:C8:7E:C7:7F:DA:FB:27"
+      ]
+    }
+  }
+]
