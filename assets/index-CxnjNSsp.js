@@ -1197,7 +1197,7 @@ After being banished to the edge of civilisation our first order of business sho
 
 If we run out of food supplies we will surely perish.
 
-Objectives:`,generatorOptions:{monsters:[]},forestRage:0,winConditions:[{description:"Gather 10 wood",isFulfilled:!1,condition:"equal",onlyResources:!0,type:"wood",count:10},{description:"Gather 30 food",isFulfilled:!1,condition:"equal",category:"food",onlyResources:!0,count:30}],availableBuildings:["woodsman","gatherer"],availableUnits:[],monsters:[],playerResources:[new B({type:"food",quantity:20,category:"food",description:`Minus 1
+Objectives:`,generatorOptions:{monsters:[]},forestRage:0,winConditions:[{description:"Gather 10 wood",isFulfilled:!1,condition:"equal",onlyResources:!0,type:"wood",count:10},{description:"Gather 30 food",isFulfilled:!1,condition:"equal",type:"food",category:"food",onlyResources:!0,count:30}],availableBuildings:["woodsman","gatherer"],availableUnits:[],monsters:[],playerResources:[new B({type:"food",quantity:20,category:"food",description:`Minus 1
 per worker`}),new B({type:"wood",quantity:3,category:"wood",description:`Building
 material`}),new B({type:"stone",quantity:0,category:"stone",description:`Building
 material`}),new B({type:"gold",quantity:0,category:"gold",description:`Building
